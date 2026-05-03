@@ -1,0 +1,421 @@
+- generic [ref=e2]:
+  - link:
+    - /url: ""
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - link "鱼泡网" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - img "鱼泡网" [ref=e6]
+      - link "首页" [ref=e7] [cursor=pointer]:
+        - /url: /a1/
+      - link "职位" [ref=e8] [cursor=pointer]:
+        - /url: /zhaogong/a1_rmgz/
+      - link "公司" [ref=e9] [cursor=pointer]:
+        - /url: /qiye/
+      - link "校园" [ref=e10] [cursor=pointer]:
+        - /url: /xiaoyuan/a1/
+      - link "意外险" [ref=e11] [cursor=pointer]:
+        - /url: /baoxian
+      - link "下载APP" [ref=e12] [cursor=pointer]:
+        - /url: /down-app/
+  - generic [ref=e15]:
+    - heading "前端开发工程师（急招）" [level=1] [ref=e16]
+    - generic [ref=e17]: 6000-8000元/月
+  - main [ref=e18]:
+    - generic [ref=e19]:
+      - generic [ref=e20]:
+        - generic [ref=e21]:
+          - generic [ref=e22]: 职位详情
+          - generic [ref=e23]:
+            - generic [ref=e24]:
+              - generic [ref=e25] [cursor=pointer]: 
+              - generic [ref=e26]: 微信扫码分享
+            - generic [ref=e27] [cursor=pointer]:
+              - generic [ref=e28]: 
+              - text: 投诉
+        - generic [ref=e29]:
+          - generic [ref=e30]: 1-3年
+          - generic [ref=e31]: 大专
+          - generic [ref=e32]: Vue
+          - generic [ref=e33]: ECharts
+          - generic [ref=e34]: 计算机/软件工程相关专业
+          - generic [ref=e35]: 前端开发经验
+          - generic [ref=e36]: 前端开发工程师
+        - generic [ref=e37]: 岗位职责： 1、熟悉 Vue 3 技术栈（Composition API、Vue Router、Pinia），具备 TypeScript 开发能力。 2、熟悉 Vite 构建工具，了解环境变量、代理配置与构建优化。 3、熟悉 Element Plus 等 UI 组件库，能进行二次封装与业务适配。 4、熟悉 Axios 请求封装、拦截器与 RESTful 接口联调。 5、熟悉 ECharts 图表、vxe-table 等高性能表格组件，有大列表/报表开发经验。 6、熟悉 Sass、UnoCSS 等样式方案，具备前端工程化与 ESLint 规范意识。 7、有 WebSocket 实时通信、权限体系开发经验者优先。 8、有企业级中后台、B 端管理系统完整项目经验者优先。 9、有大文件上传、分片上传、多环境部署经验者优先。 10、了解 Docker 容器化部署，具备良好的编码规范与问题排查能力。 具备较强的学习能力，能快速适配AI技术，主动探索高效开发方式。 任职要求： 1、学历专业： 大专及以上学历，计算机、软件工程相关专业（基础扎实）； 2、框架熟练： 精通Vue3（Composition API）、Vue Router、Pinia，熟练使用TypeScript进行开发； 3、构建工具： 熟悉Vite，能独立配置环境变量、代理及基础构建优化； 4、UI/样式： 熟练使用Element Plus（能进行二次封装），掌握Sass、UnoCSS等现代样式方案； 5、网络请求： 熟悉Axios封装，能配合RESTful接口进行联调及拦截器处理； 6、组件能力： 熟悉ECharts及vxe-table，有大列表渲染、复杂报表开发经验； 7、规范意识： 具有良好的编码规范，了解前端工程化。 薪资待遇： 薪资：6000元/月起（根据能力具体面谈）
+        - paragraph [ref=e39] [cursor=pointer]:
+          - generic [ref=e40]: 职位亮点
+          - generic [ref=e41]: 
+        - generic [ref=e45]:
+          - generic [ref=e46]:
+            - generic [ref=e47]: 毕女士
+            - generic [ref=e48]: IP：广东广州
+          - generic [ref=e49]:
+            - paragraph [ref=e50]:
+              - generic [ref=e51]: 50分钟前回复|
+              - text: 今日回复10次+|
+            - paragraph [ref=e52]: 鑫金文化
+      - generic [ref=e53]:
+        - generic [ref=e54]: 工商信息
+        - generic [ref=e55]:
+          - generic [ref=e56]:
+            - generic [ref=e57]:
+              - paragraph [ref=e58]: 公司名称：
+              - link "广州鑫金文化传媒有限公司" [ref=e59] [cursor=pointer]:
+                - /url: /qiye/1846168512092053524.html
+            - generic [ref=e60]:
+              - paragraph [ref=e61]: 法定代表人：
+              - paragraph [ref=e62]: 郭钰
+            - generic [ref=e63]:
+              - paragraph [ref=e64]: 成立日期：
+              - paragraph [ref=e65]: 2024-07-08
+          - link "查看全部 " [ref=e66] [cursor=pointer]:
+            - /url: /qiye/1846168512092053524.html
+            - text: 查看全部
+            - generic [ref=e67]: 
+        - paragraph [ref=e68]
+        - generic [ref=e69]: 工作地址
+        - link " 广州花都区四合大厦" [ref=e70] [cursor=pointer]:
+          - /url: /y/375684892.html
+          - generic [ref=e71]: 
+          - text: 广州花都区四合大厦
+        - generic [ref=e75] [cursor=pointer]: 点击查看地图
+      - heading "相关推荐 查看更多 >" [level=2] [ref=e76]:
+        - text: 相关推荐
+        - link "查看更多 >" [ref=e77] [cursor=pointer]:
+          - /url: /topic/a6c0/a_3693/
+      - generic [ref=e78]:
+        - generic [ref=e80] [cursor=pointer]:
+          - link "前端开发 8000-13000元/月 前端开发工程师 5-10年 本科 接受居家办公 前端开发经验" [ref=e81]:
+            - /url: /zhaogong/382785315.html
+            - generic [ref=e82]:
+              - generic [ref=e83]:
+                - generic [ref=e84]: 前端开发
+                - generic [ref=e85]: 8000-13000元/月
+              - generic [ref=e86]:
+                - generic [ref=e87]: 前端开发工程师
+                - generic [ref=e88]: 5-10年
+                - generic [ref=e89]: 本科
+                - generic [ref=e90]: 接受居家办公
+                - generic [ref=e91]: 前端开发经验
+          - link "广州科杰信息科技有限责任公司" [ref=e93]:
+            - /url: /qiye/1995801570209611844.html
+        - generic [ref=e95] [cursor=pointer]:
+          - link "前端开发实习生 150-180元/天 前端开发工程师 经验不限 本科 vue2" [ref=e96]:
+            - /url: /zhaogong/350955794.html
+            - generic [ref=e97]:
+              - generic [ref=e98]:
+                - generic [ref=e99]: 前端开发实习生
+                - generic [ref=e100]: 150-180元/天
+              - generic [ref=e101]:
+                - generic [ref=e102]: 前端开发工程师
+                - generic [ref=e103]: 经验不限
+                - generic [ref=e104]: 本科
+                - generic [ref=e105]: vue2
+          - link "广州市福思特科技..." [ref=e107]:
+            - /url: /qiye/1946240312720646199.html
+        - generic [ref=e109] [cursor=pointer]:
+          - link "低空前端 9000-14000元/月 前端开发工程师 5-10年 本科 不接受居家办公 cesium 地图 低空 Vue taro leaflet 计算机/软件工程相关专业 前端开发经验" [ref=e110]:
+            - /url: /zhaogong/338739928.html
+            - generic [ref=e111]:
+              - generic [ref=e112]:
+                - generic [ref=e113]: 低空前端
+                - generic [ref=e114]: 9000-14000元/月
+              - generic [ref=e115]:
+                - generic [ref=e116]: 前端开发工程师
+                - generic [ref=e117]: 5-10年
+                - generic [ref=e118]: 本科
+                - generic [ref=e119]: 不接受居家办公
+                - generic [ref=e120]: cesium
+                - generic [ref=e121]: 地图
+                - generic [ref=e122]: 低空
+                - generic [ref=e123]: Vue
+                - generic [ref=e124]: taro
+                - generic [ref=e125]: leaflet
+                - generic [ref=e126]: 计算机/软件工程相关专业
+                - generic [ref=e127]: 前端开发经验
+          - link "网思科技" [ref=e129]:
+            - /url: /qiye/1846140906399469627.html
+        - generic [ref=e131] [cursor=pointer]:
+          - link "前端开发工程师【双休＋五险一金】 1.4-1.6万元/月 前端开发工程师 3-5年 本科 不接受居家办公 工程源码分析能力 Babel Vue 大型H5 App开发经验 Webpack React 计算机/软件工程相关专业 前端开发经验 小程序端开发经验 前端工程化技术" [ref=e132]:
+            - /url: /zhaogong/338778140.html
+            - generic [ref=e133]:
+              - generic [ref=e134]:
+                - generic [ref=e135]: 前端开发工程师【双休＋五险一金】
+                - generic [ref=e136]: 1.4-1.6万元/月
+              - generic [ref=e137]:
+                - generic [ref=e138]: 前端开发工程师
+                - generic [ref=e139]: 3-5年
+                - generic [ref=e140]: 本科
+                - generic [ref=e141]: 不接受居家办公
+                - generic [ref=e142]: 工程源码分析能力
+                - generic [ref=e143]: Babel
+                - generic [ref=e144]: Vue
+                - generic [ref=e145]: 大型H5 App开发经验
+                - generic [ref=e146]: Webpack
+                - generic [ref=e147]: React
+                - generic [ref=e148]: 计算机/软件工程相关专业
+                - generic [ref=e149]: 前端开发经验
+                - generic [ref=e150]: 小程序端开发经验
+                - generic [ref=e151]: 前端工程化技术
+          - link "深圳中迈" [ref=e153]:
+            - /url: /qiye/1846166028594323464.html
+        - generic [ref=e155] [cursor=pointer]:
+          - link "web前端开发工程师 8000-12000元/月 前端开发工程师 经验不限 大专 JavaScript 前端开发经验" [ref=e156]:
+            - /url: /zhaogong/326504104.html
+            - generic [ref=e157]:
+              - generic [ref=e158]:
+                - generic [ref=e159]: web前端开发工程师
+                - generic [ref=e160]: 8000-12000元/月
+              - generic [ref=e161]:
+                - generic [ref=e162]: 前端开发工程师
+                - generic [ref=e163]: 经验不限
+                - generic [ref=e164]: 大专
+                - generic [ref=e165]: JavaScript
+                - generic [ref=e166]: 前端开发经验
+          - link "千熙科技" [ref=e168]:
+            - /url: /qiye/1934808065379680333.html
+        - generic [ref=e170] [cursor=pointer]:
+          - link "前端开发实习生（专注小程序） 120-150元/天 前端开发工程师 经验不限 本科 接受实习/在校生投递" [ref=e171]:
+            - /url: /zhaogong/325173553.html
+            - generic [ref=e172]:
+              - generic [ref=e173]:
+                - generic [ref=e174]: 前端开发实习生（专注小程序）
+                - generic [ref=e175]: 120-150元/天
+              - generic [ref=e176]:
+                - generic [ref=e177]: 前端开发工程师
+                - generic [ref=e178]: 经验不限
+                - generic [ref=e179]: 本科
+                - generic [ref=e180]: 接受实习/在校生投递
+          - link "康实科技" [ref=e182]:
+            - /url: /qiye/1955890067453292570.html
+      - generic [ref=e184]:
+        - generic [ref=e185] [cursor=pointer]:
+          - paragraph [ref=e186]: 广州
+          - generic [ref=e187]: 
+        - textbox "搜索职位、公司" [ref=e189]: 前端开发工程师
+        - generic [ref=e190] [cursor=pointer]: 搜索
+      - generic [ref=e191]:
+        - tablist [ref=e192]:
+          - generic [ref=e194]:
+            - tab "相同职位推荐" [selected] [ref=e196] [cursor=pointer]:
+              - paragraph [ref=e197]: 相同职位推荐
+            - tab "企业招聘" [ref=e199] [cursor=pointer]:
+              - paragraph [ref=e200]: 企业招聘
+            - tab "职位大全" [ref=e202] [cursor=pointer]:
+              - paragraph [ref=e203]: 职位大全
+            - tab "相关搜索" [ref=e205] [cursor=pointer]:
+              - paragraph [ref=e206]: 相关搜索
+        - tabpanel [ref=e209]:
+          - link "荔湾区前端开发工程师招聘" [ref=e210] [cursor=pointer]:
+            - /url: /zhaogong/a3686c1491/
+          - link "越秀区前端开发工程师招聘" [ref=e211] [cursor=pointer]:
+            - /url: /zhaogong/a3687c1491/
+          - link "海珠区前端开发工程师招聘" [ref=e212] [cursor=pointer]:
+            - /url: /zhaogong/a3688c1491/
+          - link "天河区前端开发工程师招聘" [ref=e213] [cursor=pointer]:
+            - /url: /zhaogong/a3689c1491/
+          - link "白云区前端开发工程师招聘" [ref=e214] [cursor=pointer]:
+            - /url: /zhaogong/a3690c1491/
+          - link "黄埔区前端开发工程师招聘" [ref=e215] [cursor=pointer]:
+            - /url: /zhaogong/a3691c1491/
+          - link "番禺区前端开发工程师招聘" [ref=e216] [cursor=pointer]:
+            - /url: /zhaogong/a3692c1491/
+          - link "南沙区前端开发工程师招聘" [ref=e217] [cursor=pointer]:
+            - /url: /zhaogong/a3694c1491/
+          - link "从化区前端开发工程师招聘" [ref=e218] [cursor=pointer]:
+            - /url: /zhaogong/a3695c1491/
+          - link "增城区前端开发工程师招聘" [ref=e219] [cursor=pointer]:
+            - /url: /zhaogong/a3696c1491/
+      - generic [ref=e220]:
+        - link "鱼泡直聘网" [ref=e221] [cursor=pointer]:
+          - /url: /
+          - generic [ref=e222]: 
+          - text: 鱼泡直聘网
+        - text: ">"
+        - link "花都区招聘网" [ref=e223] [cursor=pointer]:
+          - /url: /a3693/
+        - text: ">"
+        - link "花都区互联网/AI招聘" [ref=e224] [cursor=pointer]:
+          - /url: /zhaogong/a3693c0/
+        - text: ">"
+        - link "花都区前端开发工程师招聘" [ref=e225] [cursor=pointer]:
+          - /url: /zhaogong/a3693c1491/
+    - generic [ref=e226]:
+      - heading "精选职位推荐" [level=2] [ref=e227]
+      - generic [ref=e228]:
+        - generic [ref=e230] [cursor=pointer]:
+          - link "前端开发工程师 1.5-1.8万元/月 前端开发工程师 3-5年 本科 不接受居家办公 计算机/软件工程相关专业 前端开发经验" [ref=e231]:
+            - /url: /zhaogong/329572790.html
+            - generic [ref=e232]:
+              - generic [ref=e233]:
+                - generic [ref=e234]: 前端开发工程师
+                - generic [ref=e235]: 1.5-1.8万元/月
+              - generic [ref=e236]:
+                - generic [ref=e237]: 前端开发工程师
+                - generic [ref=e238]: 3-5年
+                - generic [ref=e239]: 本科
+                - generic [ref=e240]: 不接受居家办公
+                - generic [ref=e241]: 计算机/软件工程相关专业
+                - generic [ref=e242]: 前端开发经验
+          - link "赛维森" [ref=e244]:
+            - /url: /qiye/1846164638962688084.html
+        - generic [ref=e246] [cursor=pointer]:
+          - link "高级前端开发工程师 2-3万元/月 前端开发工程师 5-10年 本科 不接受居家办公 Vue Node.js React 计算机/软件工程相关专业 前端开发经验" [ref=e247]:
+            - /url: /zhaogong/338721289.html
+            - generic [ref=e248]:
+              - generic [ref=e249]:
+                - generic [ref=e250]: 高级前端开发工程师
+                - generic [ref=e251]: 2-3万元/月
+              - generic [ref=e252]:
+                - generic [ref=e253]: 前端开发工程师
+                - generic [ref=e254]: 5-10年
+                - generic [ref=e255]: 本科
+                - generic [ref=e256]: 不接受居家办公
+                - generic [ref=e257]: Vue
+                - generic [ref=e258]: Node.js
+                - generic [ref=e259]: React
+                - generic [ref=e260]: 计算机/软件工程相关专业
+                - generic [ref=e261]: 前端开发经验
+          - link "筷子科技" [ref=e263]:
+            - /url: /qiye/1846142312409862146.html
+        - generic [ref=e265] [cursor=pointer]:
+          - link "前端开发工程师 8000-12000元/月 前端开发工程师 3-5年 本科 CSS 移动端 JavaScript HTML5 HTML" [ref=e266]:
+            - /url: /zhaogong/322152600.html
+            - generic [ref=e267]:
+              - generic [ref=e268]:
+                - generic [ref=e269]: 前端开发工程师
+                - generic [ref=e270]: 8000-12000元/月
+              - generic [ref=e271]:
+                - generic [ref=e272]: 前端开发工程师
+                - generic [ref=e273]: 3-5年
+                - generic [ref=e274]: 本科
+                - generic [ref=e275]: CSS
+                - generic [ref=e276]: 移动端
+                - generic [ref=e277]: JavaScript
+                - generic [ref=e278]: HTML5
+                - generic [ref=e279]: HTML
+          - link "蓝梵信息" [ref=e281]:
+            - /url: /qiye/1976173139373391879.html
+        - generic [ref=e283] [cursor=pointer]:
+          - link "前端开发 1-1.3万元/月 前端开发工程师 3-5年 本科 node.js CSS 移动端 vue react" [ref=e284]:
+            - /url: /zhaogong/324085293.html
+            - generic [ref=e285]:
+              - generic [ref=e286]:
+                - generic [ref=e287]: 前端开发
+                - generic [ref=e288]: 1-1.3万元/月
+              - generic [ref=e289]:
+                - generic [ref=e290]: 前端开发工程师
+                - generic [ref=e291]: 3-5年
+                - generic [ref=e292]: 本科
+                - generic [ref=e293]: node.js
+                - generic [ref=e294]: CSS
+                - generic [ref=e295]: 移动端
+                - generic [ref=e296]: vue
+                - generic [ref=e297]: react
+          - link "易立德" [ref=e299]:
+            - /url: /qiye/1846182484212060194.html
+        - generic [ref=e301] [cursor=pointer]:
+          - link "前端开发工程师（区块链方向） 8000-12000元/月 前端开发工程师 3-5年 大专 不接受居家办公 JavaScript HTML5 Vue 计算机/软件工程相关专业" [ref=e302]:
+            - /url: /zhaogong/328918137.html
+            - generic [ref=e303]:
+              - generic [ref=e304]:
+                - generic [ref=e305]: 前端开发工程师（区块链方向）
+                - generic [ref=e306]: 8000-12000元/月
+              - generic [ref=e307]:
+                - generic [ref=e308]: 前端开发工程师
+                - generic [ref=e309]: 3-5年
+                - generic [ref=e310]: 大专
+                - generic [ref=e311]: 不接受居家办公
+                - generic [ref=e312]: JavaScript
+                - generic [ref=e313]: HTML5
+                - generic [ref=e314]: Vue
+                - generic [ref=e315]: 计算机/软件工程相关专业
+          - link "共源科技" [ref=e317]:
+            - /url: /qiye/1986608714010161227.html
+        - generic [ref=e319] [cursor=pointer]:
+          - link "前端开发工程师（内部提效工具） 1.3-1.8万元/月 前端开发工程师 3-5年 本科" [ref=e320]:
+            - /url: /zhaogong/323061011.html
+            - generic [ref=e321]:
+              - generic [ref=e322]:
+                - generic [ref=e323]: 前端开发工程师（内部提效工具）
+                - generic [ref=e324]: 1.3-1.8万元/月
+              - generic [ref=e325]:
+                - generic [ref=e326]: 前端开发工程师
+                - generic [ref=e327]: 3-5年
+                - generic [ref=e328]: 本科
+          - link "深圳中迈" [ref=e330]:
+            - /url: /qiye/1846166028594323464.html
+      - link [ref=e331] [cursor=pointer]:
+        - /url: /
+  - text: 
+  - contentinfo [ref=e332]:
+    - generic [ref=e333]:
+      - generic [ref=e334]:
+        - img "鱼泡网" [ref=e335]
+        - paragraph [ref=e336]: 成都鱼泡科技有限公司
+        - paragraph [ref=e337]: 客服热线：400-838-1888
+        - paragraph [ref=e338]: 工作时间：08:00-21:00
+        - paragraph [ref=e339]: 公司地址：中国（四川）自由贸易试验区成都高新区益州大道中段1858号3F
+      - generic [ref=e340]:
+        - generic [ref=e341]:
+          - generic [ref=e342]: 关于我们
+          - link "公司简介" [ref=e343] [cursor=pointer]:
+            - /url: /notice/list/?type=6
+          - link "服务协议" [ref=e344] [cursor=pointer]:
+            - /url: /h5/user-agreement/
+          - link "隐私协议" [ref=e345] [cursor=pointer]:
+            - /url: /h5/privacy-agreement/
+        - generic [ref=e346]:
+          - generic [ref=e347]: 产品与服务
+          - link "职位搜索" [ref=e348] [cursor=pointer]:
+            - /url: /zhaogong/a1_rmgz/
+          - link "团队意外险" [ref=e349] [cursor=pointer]:
+            - /url: /baoxian/
+      - generic [ref=e350]:
+        - generic [ref=e351]:
+          - img "鱼泡网招工app下载" [ref=e352]
+          - paragraph [ref=e353]: 下载APP
+        - generic [ref=e354]:
+          - img "关注公众号" [ref=e355]
+          - paragraph [ref=e356]: 关注公众号
+        - generic [ref=e357]:
+          - img "扫码小程序" [ref=e358]
+          - paragraph [ref=e359]: 扫码小程序
+    - generic [ref=e361]:
+      - text: 合作链接：
+      - link "事业单位招聘" [ref=e362] [cursor=pointer]:
+        - /url: https://www.yupao.com/gongzhao/
+      - link "党政机关招聘" [ref=e363] [cursor=pointer]:
+        - /url: https://www.yupao.com/gongzhao/type/gjiguan/
+      - link "央企招聘" [ref=e364] [cursor=pointer]:
+        - /url: https://www.yupao.com/gongzhao/type/yangqi/
+      - link "学校招聘" [ref=e365] [cursor=pointer]:
+        - /url: https://www.yupao.com/gongzhao/type/xuejiao/
+      - link "社会团体招聘" [ref=e366] [cursor=pointer]:
+        - /url: https://www.yupao.com/gongzhao/type/tuanti/
+      - link "人事单位招聘" [ref=e367] [cursor=pointer]:
+        - /url: https://www.yupao.com/gongzhao/type/renshi/
+      - link "国企招聘信息" [ref=e368] [cursor=pointer]:
+        - /url: https://www.yupao.com/gongzhao/type/guoqi/
+      - link "银行招聘" [ref=e369] [cursor=pointer]:
+        - /url: https://www.yupao.com/gongzhao/type/yinxing/
+      - link "医院招聘" [ref=e370] [cursor=pointer]:
+        - /url: https://www.yupao.com/gongzhao/type/yiliao/
+    - generic [ref=e371]:
+      - text: Copyright 2017-2026 版权所有 成都鱼泡科技有限公司
+      - link "蜀ICP备17030551号-10" [ref=e372] [cursor=pointer]:
+        - /url: https://beian.miit.gov.cn/#/Integrated/index/
+      - link "川公网安备51019002003946" [ref=e373] [cursor=pointer]:
+        - /url: http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=51019002003946
+        - img [ref=e374]
+        - text: 川公网安备51019002003946
+      - link "服务协议" [ref=e375] [cursor=pointer]:
+        - /url: /h5/user-agreement/
+      - link "川B2-20211219" [ref=e376] [cursor=pointer]:
+        - /url: https://beian.miit.gov.cn/#/Integrated/index/
+      - link "电子营业执照" [ref=e377] [cursor=pointer]:
+        - /url: /license/electronic-business/
+        - img [ref=e378]
+        - text: 电子营业执照
+      - link "人力资源服务许可证" [ref=e379] [cursor=pointer]:
+        - /url: /license/human-resource/

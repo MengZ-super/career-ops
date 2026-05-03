@@ -1,0 +1,415 @@
+- generic [ref=e2]:
+  - link:
+    - /url: ""
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - link "鱼泡网" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - img "鱼泡网" [ref=e6]
+      - link "首页" [ref=e7] [cursor=pointer]:
+        - /url: /a1/
+      - link "职位" [ref=e8] [cursor=pointer]:
+        - /url: /zhaogong/a1_rmgz/
+      - link "公司" [ref=e9] [cursor=pointer]:
+        - /url: /qiye/
+      - link "校园" [ref=e10] [cursor=pointer]:
+        - /url: /xiaoyuan/a1/
+      - link "意外险" [ref=e11] [cursor=pointer]:
+        - /url: /baoxian
+      - link "下载APP" [ref=e12] [cursor=pointer]:
+        - /url: /down-app/
+  - generic [ref=e15]:
+    - heading "软件开发工程师" [level=1] [ref=e16]
+    - generic [ref=e17]: 2000-6000元/月
+  - main [ref=e18]:
+    - generic [ref=e19]:
+      - generic [ref=e20]:
+        - generic [ref=e21]:
+          - generic [ref=e22]: 职位详情
+          - generic [ref=e23]:
+            - generic [ref=e24]:
+              - generic [ref=e25] [cursor=pointer]: 
+              - generic [ref=e26]: 微信扫码分享
+            - generic [ref=e27] [cursor=pointer]:
+              - generic [ref=e28]: 
+              - text: 投诉
+        - generic [ref=e29]:
+          - generic [ref=e30]: 经验不限
+          - generic [ref=e31]: 本科
+          - generic [ref=e32]: Java
+        - generic [ref=e33]: 岗位职责： 1.参与软件产品的设计、开发与维护工作，确保代码质量及系统稳定性； 2.与团队紧密合作，理解业务需求并转化为高效的技术解决方案； 3.持续优化现有系统性能，提升用户体验； 4.跟踪并评估新技术，推动技术革新在项目中的应用。 任职要求： 1.计算机科学或相关专业本科及以上学历； 2.精通至少一种编程语言，如Java、Python、C++等； 3.熟悉常见的数据结构和算法，具备良好的编码习惯； 4.了解软件开发生命周期，有敏捷开发经验者优先； 5.良好的沟通能力和团队合作精神，能够快速融入团队并解决问题。
+        - paragraph [ref=e35] [cursor=pointer]:
+          - generic [ref=e36]: 职位亮点
+          - generic [ref=e37]: 
+        - generic [ref=e41]:
+          - generic [ref=e42]:
+            - generic [ref=e43]: 冯先生
+            - generic [ref=e44]: IP：广东广州
+          - generic [ref=e45]:
+            - generic [ref=e46]:
+              - text: 5日内活跃
+              - generic [ref=e47]: "|"
+            - paragraph [ref=e48]: 晞日
+      - generic [ref=e49]:
+        - generic [ref=e50]: 工商信息
+        - generic [ref=e51]:
+          - generic [ref=e52]:
+            - generic [ref=e53]:
+              - paragraph [ref=e54]: 公司名称：
+              - link "广州晞日网络科技有限公司" [ref=e55] [cursor=pointer]:
+                - /url: /qiye/1971413245868974108.html
+            - generic [ref=e56]:
+              - paragraph [ref=e57]: 法定代表人：
+              - paragraph [ref=e58]: 冯雨程
+            - generic [ref=e59]:
+              - paragraph [ref=e60]: 成立日期：
+              - paragraph [ref=e61]: 2020-12-23
+          - link "查看全部 " [ref=e62] [cursor=pointer]:
+            - /url: /qiye/1971413245868974108.html
+            - text: 查看全部
+            - generic [ref=e63]: 
+        - paragraph [ref=e64]
+        - generic [ref=e65]: 工作地址
+        - link " 广州增城区广州晞日网络科技有限公司" [ref=e66] [cursor=pointer]:
+          - /url: /y/317440443.html
+          - generic [ref=e67]: 
+          - text: 广州增城区广州晞日网络科技有限公司
+        - generic [ref=e71] [cursor=pointer]: 点击查看地图
+      - heading "相关推荐 查看更多 >" [level=2] [ref=e72]:
+        - text: 相关推荐
+        - link "查看更多 >" [ref=e73] [cursor=pointer]:
+          - /url: /topic/a6c0/a_3696/
+      - generic [ref=e74]:
+        - generic [ref=e76] [cursor=pointer]:
+          - link "Java技术合伙人 1.5-2万元/月 Java 3-5年 本科 不接受居家办公 团队管理经验 接受无前端经验/技能 Spring MySQL" [ref=e77]:
+            - /url: /zhaogong/382346979.html
+            - generic [ref=e78]:
+              - generic [ref=e79]:
+                - generic [ref=e80]: Java技术合伙人
+                - generic [ref=e81]: 1.5-2万元/月
+              - generic [ref=e82]:
+                - generic [ref=e83]: Java
+                - generic [ref=e84]: 3-5年
+                - generic [ref=e85]: 本科
+                - generic [ref=e86]: 不接受居家办公
+                - generic [ref=e87]: 团队管理经验
+                - generic [ref=e88]: 接受无前端经验/技能
+                - generic [ref=e89]: Spring
+                - generic [ref=e90]: MySQL
+          - link "广州科杰信息科技有限责任公司" [ref=e92]:
+            - /url: /qiye/1995801570209611844.html
+        - generic [ref=e94] [cursor=pointer]:
+          - link "高级JAVA开发工程师 1.2-1.5万元/月 Java 5-10年 本科 高级JAVA 后端" [ref=e95]:
+            - /url: /zhaogong/364337626.html
+            - generic [ref=e96]:
+              - generic [ref=e97]:
+                - generic [ref=e98]: 高级JAVA开发工程师
+                - generic [ref=e99]: 1.2-1.5万元/月
+              - generic [ref=e100]:
+                - generic [ref=e101]: Java
+                - generic [ref=e102]: 5-10年
+                - generic [ref=e103]: 本科
+                - generic [ref=e104]: 高级JAVA
+                - generic [ref=e105]: 后端
+          - link "图创软件" [ref=e107]:
+            - /url: /qiye/1879806089365798962.html
+        - generic [ref=e109] [cursor=pointer]:
+          - link "后端开发 1.2-1.4万元/月 Java 其他后端开发 3-5年 本科 MySQL Spring" [ref=e110]:
+            - /url: /zhaogong/350925620.html
+            - generic [ref=e111]:
+              - generic [ref=e112]:
+                - generic [ref=e113]: 后端开发
+                - generic [ref=e114]: 1.2-1.4万元/月
+              - generic [ref=e115]:
+                - generic [ref=e116]: Java
+                - generic [ref=e117]: 其他后端开发
+                - generic [ref=e118]: 3-5年
+                - generic [ref=e119]: 本科
+                - generic [ref=e120]: MySQL
+                - generic [ref=e121]: Spring
+          - link "新华三" [ref=e123]:
+            - /url: /qiye/1846175085560467464.html
+        - generic [ref=e125] [cursor=pointer]:
+          - link "Java 1.5-1.6万元/月 Java 1年以下 本科" [ref=e126]:
+            - /url: /zhaogong/346991389.html
+            - generic [ref=e127]:
+              - generic [ref=e128]:
+                - generic [ref=e129]: Java
+                - generic [ref=e130]: 1.5-1.6万元/月
+              - generic [ref=e131]:
+                - generic [ref=e132]: Java
+                - generic [ref=e133]: 1年以下
+                - generic [ref=e134]: 本科
+          - link "广州速道易信息科技" [ref=e136]:
+            - /url: /qiye/1846142552244363284.html
+        - generic [ref=e138] [cursor=pointer]:
+          - link "技术研发工程师 6000-10000元/月 Java 3-5年 大专 C++ 不接受居家办公 RPA MySQL Spring Python" [ref=e139]:
+            - /url: /zhaogong/338846969.html
+            - generic [ref=e140]:
+              - generic [ref=e141]:
+                - generic [ref=e142]: 技术研发工程师
+                - generic [ref=e143]: 6000-10000元/月
+              - generic [ref=e144]:
+                - generic [ref=e145]: Java
+                - generic [ref=e146]: 3-5年
+                - generic [ref=e147]: 大专
+                - generic [ref=e148]: C++
+                - generic [ref=e149]: 不接受居家办公
+                - generic [ref=e150]: RPA
+                - generic [ref=e151]: MySQL
+                - generic [ref=e152]: Spring
+                - generic [ref=e153]: Python
+          - link "金森林" [ref=e155]:
+            - /url: /qiye/1960545001645834243.html
+        - generic [ref=e157] [cursor=pointer]:
+          - link "JAVA全栈开发工程师 1-1.5万元/月 Java 5-10年 大专 MES开发经验 Hibernate SpringCloud MyBatis SQL Server Spring Oracle ERP开发经验" [ref=e158]:
+            - /url: /zhaogong/338685745.html
+            - generic [ref=e159]:
+              - generic [ref=e160]:
+                - generic [ref=e161]: JAVA全栈开发工程师
+                - generic [ref=e162]: 1-1.5万元/月
+              - generic [ref=e163]:
+                - generic [ref=e164]: Java
+                - generic [ref=e165]: 5-10年
+                - generic [ref=e166]: 大专
+                - generic [ref=e167]: MES开发经验
+                - generic [ref=e168]: Hibernate
+                - generic [ref=e169]: SpringCloud
+                - generic [ref=e170]: MyBatis
+                - generic [ref=e171]: SQL Server
+                - generic [ref=e172]: Spring
+                - generic [ref=e173]: Oracle
+                - generic [ref=e174]: ERP开发经验
+          - link "高禾泰" [ref=e176]:
+            - /url: /qiye/1846187199326986296.html
+      - generic [ref=e178]:
+        - generic [ref=e179] [cursor=pointer]:
+          - paragraph [ref=e180]: 广州
+          - generic [ref=e181]: 
+        - textbox "搜索职位、公司" [ref=e183]: Java
+        - generic [ref=e184] [cursor=pointer]: 搜索
+      - generic [ref=e185]:
+        - tablist [ref=e186]:
+          - generic [ref=e188]:
+            - tab "相同职位推荐" [selected] [ref=e190] [cursor=pointer]:
+              - paragraph [ref=e191]: 相同职位推荐
+            - tab "企业招聘" [ref=e193] [cursor=pointer]:
+              - paragraph [ref=e194]: 企业招聘
+            - tab "职位大全" [ref=e196] [cursor=pointer]:
+              - paragraph [ref=e197]: 职位大全
+            - tab "相关搜索" [ref=e199] [cursor=pointer]:
+              - paragraph [ref=e200]: 相关搜索
+        - tabpanel [ref=e203]:
+          - link "荔湾区Java招聘" [ref=e204] [cursor=pointer]:
+            - /url: /zhaogong/a3686c1489/
+          - link "越秀区Java招聘" [ref=e205] [cursor=pointer]:
+            - /url: /zhaogong/a3687c1489/
+          - link "海珠区Java招聘" [ref=e206] [cursor=pointer]:
+            - /url: /zhaogong/a3688c1489/
+          - link "天河区Java招聘" [ref=e207] [cursor=pointer]:
+            - /url: /zhaogong/a3689c1489/
+          - link "白云区Java招聘" [ref=e208] [cursor=pointer]:
+            - /url: /zhaogong/a3690c1489/
+          - link "黄埔区Java招聘" [ref=e209] [cursor=pointer]:
+            - /url: /zhaogong/a3691c1489/
+          - link "番禺区Java招聘" [ref=e210] [cursor=pointer]:
+            - /url: /zhaogong/a3692c1489/
+          - link "花都区Java招聘" [ref=e211] [cursor=pointer]:
+            - /url: /zhaogong/a3693c1489/
+          - link "南沙区Java招聘" [ref=e212] [cursor=pointer]:
+            - /url: /zhaogong/a3694c1489/
+          - link "从化区Java招聘" [ref=e213] [cursor=pointer]:
+            - /url: /zhaogong/a3695c1489/
+      - generic [ref=e214]:
+        - link "鱼泡直聘网" [ref=e215] [cursor=pointer]:
+          - /url: /
+          - generic [ref=e216]: 
+          - text: 鱼泡直聘网
+        - text: ">"
+        - link "增城区招聘网" [ref=e217] [cursor=pointer]:
+          - /url: /a3696/
+        - text: ">"
+        - link "增城区招聘信息" [ref=e218] [cursor=pointer]:
+          - /url: /zhaogong/a3696c0/
+        - text: ">"
+        - link "增城区Java招聘" [ref=e219] [cursor=pointer]:
+          - /url: /zhaogong/a3696c1489/
+    - generic [ref=e220]:
+      - heading "精选职位推荐" [level=2] [ref=e221]
+      - generic [ref=e222]:
+        - generic [ref=e224] [cursor=pointer]:
+          - link "Java后端开发、全栈工程师、 4000-9000元/月 Java 1-3年 大专 SaaS软件、低代码开发平台 不接受居家办公 ERP开发经验 有前端经验/技能" [ref=e225]:
+            - /url: /zhaogong/351613367.html
+            - generic [ref=e226]:
+              - generic [ref=e227]:
+                - generic [ref=e228]: Java后端开发、全栈工程师、
+                - generic [ref=e229]: 4000-9000元/月
+              - generic [ref=e230]:
+                - generic [ref=e231]: Java
+                - generic [ref=e232]: 1-3年
+                - generic [ref=e233]: 大专
+                - generic [ref=e234]: SaaS软件、低代码开发平台
+                - generic [ref=e235]: 不接受居家办公
+                - generic [ref=e236]: ERP开发经验
+                - generic [ref=e237]: 有前端经验/技能
+          - link "广州康曼德" [ref=e239]:
+            - /url: /qiye/1995687538190368827.html
+        - generic [ref=e241] [cursor=pointer]:
+          - link "实习生 100-110元/天 Java 经验不限 本科 C# 不接受居家办公 SpringCloud MySQL SQL Server Spring Oracle" [ref=e242]:
+            - /url: /zhaogong/340263554.html
+            - generic [ref=e243]:
+              - generic [ref=e244]:
+                - generic [ref=e245]: 实习生
+                - generic [ref=e246]: 100-110元/天
+              - generic [ref=e247]:
+                - generic [ref=e248]: Java
+                - generic [ref=e249]: 经验不限
+                - generic [ref=e250]: 本科
+                - generic [ref=e251]: C#
+                - generic [ref=e252]: 不接受居家办公
+                - generic [ref=e253]: SpringCloud
+                - generic [ref=e254]: MySQL
+                - generic [ref=e255]: SQL Server
+                - generic [ref=e256]: Spring
+                - generic [ref=e257]: Oracle
+          - link "飞斯信息" [ref=e259]:
+            - /url: /qiye/1954754498635518021.html
+        - generic [ref=e261] [cursor=pointer]:
+          - link "广州初级JAVA（统招本科+计算机专业+学信网可查） 1.2-1.3万元/月 Java 3-5年 本科 银行 SpringCloud MySQL" [ref=e262]:
+            - /url: /zhaogong/350973234.html
+            - generic [ref=e263]:
+              - generic [ref=e264]:
+                - generic [ref=e265]: 广州初级JAVA（统招本科+计算机专业+学信网可查）
+                - generic [ref=e266]: 1.2-1.3万元/月
+              - generic [ref=e267]:
+                - generic [ref=e268]: Java
+                - generic [ref=e269]: 3-5年
+                - generic [ref=e270]: 本科
+                - generic [ref=e271]: 银行
+                - generic [ref=e272]: SpringCloud
+                - generic [ref=e273]: MySQL
+          - link "宇信科技" [ref=e275]:
+            - /url: /qiye/1846143153007104010.html
+        - generic [ref=e277] [cursor=pointer]:
+          - link "中级Java开发工程师 9000-12000元/月 Java 3-5年 本科 SpringCloud MySQL Spring ERP开发经验" [ref=e278]:
+            - /url: /zhaogong/339004160.html
+            - generic [ref=e279]:
+              - generic [ref=e280]:
+                - generic [ref=e281]: 中级Java开发工程师
+                - generic [ref=e282]: 9000-12000元/月
+              - generic [ref=e283]:
+                - generic [ref=e284]: Java
+                - generic [ref=e285]: 3-5年
+                - generic [ref=e286]: 本科
+                - generic [ref=e287]: SpringCloud
+                - generic [ref=e288]: MySQL
+                - generic [ref=e289]: Spring
+                - generic [ref=e290]: ERP开发经验
+          - link "商网云" [ref=e292]:
+            - /url: /qiye/1971423333144920125.html
+        - generic [ref=e294] [cursor=pointer]:
+          - link "Java资深开发工程师 1.5-2.5万元/月 Java 5-10年 本科 Elasticsearch Docker SpringCloud MyBatis Redis Spring" [ref=e295]:
+            - /url: /zhaogong/338739513.html
+            - generic [ref=e296]:
+              - generic [ref=e297]:
+                - generic [ref=e298]: Java资深开发工程师
+                - generic [ref=e299]: 1.5-2.5万元/月
+              - generic [ref=e300]:
+                - generic [ref=e301]: Java
+                - generic [ref=e302]: 5-10年
+                - generic [ref=e303]: 本科
+                - generic [ref=e304]: Elasticsearch
+                - generic [ref=e305]: Docker
+                - generic [ref=e306]: SpringCloud
+                - generic [ref=e307]: MyBatis
+                - generic [ref=e308]: Redis
+                - generic [ref=e309]: Spring
+          - link "环亚集团" [ref=e311]:
+            - /url: /qiye/1846168193752764519.html
+        - generic [ref=e313] [cursor=pointer]:
+          - link "Java开发工程师（银行项目驻场） 1-1.5万元/月 Java 3-5年 本科" [ref=e314]:
+            - /url: /zhaogong/362446543.html
+            - generic [ref=e315]:
+              - generic [ref=e316]:
+                - generic [ref=e317]: Java开发工程师（银行项目驻场）
+                - generic [ref=e318]: 1-1.5万元/月
+              - generic [ref=e319]:
+                - generic [ref=e320]: Java
+                - generic [ref=e321]: 3-5年
+                - generic [ref=e322]: 本科
+          - link "至恒融兴" [ref=e324]:
+            - /url: /qiye/1846167524111159382.html
+      - link [ref=e325] [cursor=pointer]:
+        - /url: /
+  - text: 
+  - contentinfo [ref=e326]:
+    - generic [ref=e327]:
+      - generic [ref=e328]:
+        - img "鱼泡网" [ref=e329]
+        - paragraph [ref=e330]: 成都鱼泡科技有限公司
+        - paragraph [ref=e331]: 客服热线：400-838-1888
+        - paragraph [ref=e332]: 工作时间：08:00-21:00
+        - paragraph [ref=e333]: 公司地址：中国（四川）自由贸易试验区成都高新区益州大道中段1858号3F
+      - generic [ref=e334]:
+        - generic [ref=e335]:
+          - generic [ref=e336]: 关于我们
+          - link "公司简介" [ref=e337] [cursor=pointer]:
+            - /url: /notice/list/?type=6
+          - link "服务协议" [ref=e338] [cursor=pointer]:
+            - /url: /h5/user-agreement/
+          - link "隐私协议" [ref=e339] [cursor=pointer]:
+            - /url: /h5/privacy-agreement/
+        - generic [ref=e340]:
+          - generic [ref=e341]: 产品与服务
+          - link "职位搜索" [ref=e342] [cursor=pointer]:
+            - /url: /zhaogong/a1_rmgz/
+          - link "团队意外险" [ref=e343] [cursor=pointer]:
+            - /url: /baoxian/
+      - generic [ref=e344]:
+        - generic [ref=e345]:
+          - img "鱼泡网招工app下载" [ref=e346]
+          - paragraph [ref=e347]: 下载APP
+        - generic [ref=e348]:
+          - img "关注公众号" [ref=e349]
+          - paragraph [ref=e350]: 关注公众号
+        - generic [ref=e351]:
+          - img "扫码小程序" [ref=e352]
+          - paragraph [ref=e353]: 扫码小程序
+    - generic [ref=e355]:
+      - text: 合作链接：
+      - link "事业单位招聘" [ref=e356] [cursor=pointer]:
+        - /url: https://www.yupao.com/gongzhao/
+      - link "党政机关招聘" [ref=e357] [cursor=pointer]:
+        - /url: https://www.yupao.com/gongzhao/type/gjiguan/
+      - link "央企招聘" [ref=e358] [cursor=pointer]:
+        - /url: https://www.yupao.com/gongzhao/type/yangqi/
+      - link "学校招聘" [ref=e359] [cursor=pointer]:
+        - /url: https://www.yupao.com/gongzhao/type/xuejiao/
+      - link "社会团体招聘" [ref=e360] [cursor=pointer]:
+        - /url: https://www.yupao.com/gongzhao/type/tuanti/
+      - link "人事单位招聘" [ref=e361] [cursor=pointer]:
+        - /url: https://www.yupao.com/gongzhao/type/renshi/
+      - link "国企招聘信息" [ref=e362] [cursor=pointer]:
+        - /url: https://www.yupao.com/gongzhao/type/guoqi/
+      - link "银行招聘" [ref=e363] [cursor=pointer]:
+        - /url: https://www.yupao.com/gongzhao/type/yinxing/
+      - link "医院招聘" [ref=e364] [cursor=pointer]:
+        - /url: https://www.yupao.com/gongzhao/type/yiliao/
+    - generic [ref=e365]:
+      - text: Copyright 2017-2026 版权所有 成都鱼泡科技有限公司
+      - link "蜀ICP备17030551号-10" [ref=e366] [cursor=pointer]:
+        - /url: https://beian.miit.gov.cn/#/Integrated/index/
+      - link "川公网安备51019002003946" [ref=e367] [cursor=pointer]:
+        - /url: http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=51019002003946
+        - img [ref=e368]
+        - text: 川公网安备51019002003946
+      - link "服务协议" [ref=e369] [cursor=pointer]:
+        - /url: /h5/user-agreement/
+      - link "川B2-20211219" [ref=e370] [cursor=pointer]:
+        - /url: https://beian.miit.gov.cn/#/Integrated/index/
+      - link "电子营业执照" [ref=e371] [cursor=pointer]:
+        - /url: /license/electronic-business/
+        - img [ref=e372]
+        - text: 电子营业执照
+      - link "人力资源服务许可证" [ref=e373] [cursor=pointer]:
+        - /url: /license/human-resource/

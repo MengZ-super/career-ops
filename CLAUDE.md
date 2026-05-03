@@ -239,6 +239,13 @@ Default modes are in `modes/` (English). Additional language-specific modes are 
 
 **When NOT to:** If the user applies to English-language roles, even at French, German, or Japanese companies, use the default English modes.
 
+### 用户语言偏好
+
+**用户语言：中文（Chinese）**
+- 用户优先使用中文交流
+- 评估报告、对话内容使用中文输出
+- 如需切换到其他语言模式，请用户明确要求
+
 ### Skill Modes
 
 | If the user... | Mode |
